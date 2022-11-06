@@ -1,0 +1,28 @@
+{
+    "name": "teuchi",
+    "version": "1.0.0",
+    "description": "discord bot",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js",
+        "devstart": "nodemon bot.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SabareesanArjunasamy/teuchi.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SabareesanArjunasamy/teuchi/issues"
+    },
+    "homepage": "https://github.com/SabareesanArjunasamy/teuchi#readme",
+    "dependencies": {
+        "discord.js": "^14.6.0",
+        "dotenv": "^16.0.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
